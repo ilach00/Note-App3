@@ -1,2 +1,1 @@
-# Note-App3
-Заметки
+# NoteApp
